@@ -1,0 +1,6 @@
+auth/token_bundle.json
+auth/cookies.json
+auth/auth.json
+playwright/.auth/*.json
+artifacts/
+.pytest_cache/
